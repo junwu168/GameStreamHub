@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.laioffer.twitch.FavoriteServiceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-07-15T16:04:13" hostname="192.168.2.17" time="1.014">
+  <properties/>
+  <testcase name="whenItemNotExist_setFavoriteItem_shouldSaveItem()" classname="com.laioffer.twitch.FavoriteServiceTests" time="0.952"/>
+  <testcase name="whenItemNotExist_unsetFavoriteItem_shouldNotDeleteFavoriteRecord()" classname="com.laioffer.twitch.FavoriteServiceTests" time="0.005"/>
+  <testcase name="whenItemExist_setFavoriteItem_shouldNotSaveItem()" classname="com.laioffer.twitch.FavoriteServiceTests" time="0.004"/>
+  <testcase name="whenItemExist_unsetFavoriteItem_shouldDeleteFavoriteRecord()" classname="com.laioffer.twitch.FavoriteServiceTests" time="0.022"/>
+  <testcase name="setFavoriteItem_shouldCreateFavoriteRecord()" classname="com.laioffer.twitch.FavoriteServiceTests" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
