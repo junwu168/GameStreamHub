@@ -19,5 +19,5 @@ Game StreamHub is a web application designed to help users organize their favori
 Websit Link: [Game StreamHub](https://twitch.junmingthecoder.com/)
 
 ## License
-[MIT License]()
+[MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
